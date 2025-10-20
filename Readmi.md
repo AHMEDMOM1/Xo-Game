@@ -79,18 +79,8 @@ This project is open-source and available under the **MIT License**. Feel free t
 
 ## 🙌 Author
 
-Created with ❤️ by **[Your Name]**  
-GitHub: [@your-username](https://github.com/your-username)  
-Email: your.email@example.com
-
----
-
 > 💬 **Enjoy the game—and may the best strategist win!** 🏆
 
 ---
 
 ### ✅ Ready to play? Just hit **Run** and start your XO duel today!
-
----
-
-> **Tip for contributors**: Replace placeholder image links, add your name/email, and include an actual screenshot for a complete README before publishing to GitHub.

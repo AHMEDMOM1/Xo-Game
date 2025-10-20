@@ -50,17 +50,6 @@
 
 ---
 
-## 🎯 How to Play
-
-1. Player 1 starts with **X**.
-2. Click any empty cell to place your symbol.
-3. Players alternate turns automatically.
-4. The first to align **three of their symbols** in a row (horizontal, vertical, or diagonal) **wins**!
-5. If all 9 cells are filled with no winner, the game ends in a **draw**.
-6. Click **Restart** anytime to begin a new match.
-
----
-
 ## 🖼️ UI Highlights
 
 - Custom-drawn **thick white grid lines** with rounded caps for a sleek look

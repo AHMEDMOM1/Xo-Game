@@ -1,7 +1,3 @@
-Certainly! Here's a **professional and polished README.md** file for your Tic-Tac-Toe (XO) game, written in English and formatted for GitHub or any project documentation:
-
----
-
 # 🎮 XO Game – Classic Tic-Tac-Toe with a Modern UI
 
 ![Tic-Tac-Toe Screenshot](https://via.placeholder.com/600x400?text=XO+Game+Screenshot)  

@@ -1,6 +1,7 @@
 # 🎮 XO Game – Classic Tic-Tac-Toe with a Modern UI
 
-![Tic-Tac-Toe Screenshot]([https://via.placeholder.com/600x400?text=XO+Game+Screenshot](https://github.com/AHMEDMOM1/Xo-Game/blob/main/XoXoGame/Images/Screenshot%202025-10-20%20103632.png))  
+![Tic-Tac-Toe Screenshot](https://github.com/AHMEDMOM1/Xo-Game/blob/main/XoXoGame/Images/Screenshot%202025-10-20%20103632.png)  
+
 *(Replace with actual screenshot when available)*
 
 **XO Game** is a clean, responsive, and user-friendly implementation of the classic **Tic-Tac-Toe** (Noughts and Crosses) game, built with **C#** and **Windows Forms**. Designed for two players, it features intuitive gameplay, real-time turn indicators, win detection with visual feedback, and a seamless restart option—perfect for quick matches and learning C# desktop development.

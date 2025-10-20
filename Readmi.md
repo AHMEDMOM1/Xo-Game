@@ -76,9 +76,6 @@ XoXoGame/
 This project is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it for personal or educational purposes.
 
 ---
-
-## 🙌 Author
-
 > 💬 **Enjoy the game—and may the best strategist win!** 🏆
 
 ---

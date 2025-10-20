@@ -1,0 +1,11 @@
+S:\Code\C#\XoXoGame\bin\Debug\XoXoGame.exe.config
+S:\Code\C#\XoXoGame\bin\Debug\XoXoGame.exe
+S:\Code\C#\XoXoGame\bin\Debug\XoXoGame.pdb
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.csproj.AssemblyReference.cache
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.Form1.resources
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.Properties.Resources.resources
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.csproj.GenerateResource.cache
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.csproj.CoreCompileInputs.cache
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.exe
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.pdb
+S:\Code\C#\XoXoGame\obj\Debug\XoXoGame.exe.config
